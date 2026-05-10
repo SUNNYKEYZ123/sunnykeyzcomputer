@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sunnykeyz123.github.io/sunnykeyzcomputer/sitemap.xml
